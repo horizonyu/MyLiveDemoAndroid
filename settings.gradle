@@ -1,0 +1,5 @@
+include ':vitamio'
+include ':YeseaLibrary2'
+include ':YeseaLibrary'
+include ':app'
+rootProject.name = "MyLiveDemp"
