@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyLiveDemp.iml" filepath="$PROJECT_DIR$/.idea/modules/MyLiveDemp.iml" group="MyLiveDemp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YeseaLibrary/YeseaLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/YeseaLibrary/YeseaLibrary.iml" group="MyLiveDemp/YeseaLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YeseaLibrary2/YeseaLibrary2.iml" filepath="$PROJECT_DIR$/.idea/modules/YeseaLibrary2/YeseaLibrary2.iml" group="MyLiveDemp/YeseaLibrary2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MyLiveDemp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/vitamio.iml" group="MyLiveDemp/vitamio" />
+    </modules>
+  </component>
+</project>
